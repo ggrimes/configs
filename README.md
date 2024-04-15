@@ -91,6 +91,7 @@ Currently documentation is available for the following systems:
 - [ADCRA](docs/adcra.md)
 - [ALICE](docs/alice.md)
 - [APOLLO](docs/apollo.md)
+- [ARCC](docs/arcc.md)
 - [AWSBATCH](docs/awsbatch.md)
 - [AWS_TOWER](docs/aws_tower.md)
 - [AZUREBATCH](docs/azurebatch.md)
@@ -146,6 +147,7 @@ Currently documentation is available for the following systems:
 - [Jex](docs/jex.md)
 - [KU SUND DANGPU](docs/ku_sund_dangpu.md)
 - [LUGH](docs/lugh.md)
+- [M3C](docs/m3c.md)
 - [MAESTRO](docs/maestro.md)
 - [Mana](docs/mana.md)
 - [MARVIN](docs/marvin.md)
@@ -169,6 +171,7 @@ Currently documentation is available for the following systems:
 - [ROSALIND_UGE](docs/rosalind_uge.md)
 - [SAGE BIONETWORKS](docs/sage.md)
 - [SANGER](docs/sanger.md)
+- [SEATTLECHILDRENS](docs/seattlechildrens.md)
 - [SEAWULF](docs/seawulf.md)
 - [SEG_GLOBE](docs/seg_globe.md)
 - [self-hosted-runner](docs/self-hosted-runner.md)
@@ -252,6 +255,8 @@ Currently documentation is available for the following pipelines within specific
 - ampliseq
   - [BINAC](docs/pipeline/ampliseq/binac.md)
   - [UPPMAX](docs/pipeline/ampliseq/uppmax.md)
+- cutandrun
+  - [UNC_LONGLEAF](docs/pipeline/cutandrun/unc_longleaf.md)
 - demultiplex
   - [AWS_TOWER](docs/pipeline/demultiplex/aws_tower.md)
 - eager
